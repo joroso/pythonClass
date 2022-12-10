@@ -1,0 +1,14 @@
+# String
+x = "frog"
+print(x[3])
+# OUT = g
+
+# List
+x = ["pig", "cow", "horse"]
+print(x[1])
+# OUT = cow
+
+# Tuple
+x = ("Kevin", "Niklas", "Jenny", "Craig")
+print(x[0])
+# OUT = Kevin
